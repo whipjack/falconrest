@@ -9,7 +9,7 @@ falcon==1.4.1
 funcsigs==1.0.2
 greenlet==0.4.15
 gunicorn==19.9.0
-httpie==0.9.9
+httpie==1.0.3
 idna==2.7
 ipython==5.8.0
 ipython-genutils==0.2.0
